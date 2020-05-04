@@ -1,2 +1,2 @@
-# lab21_1
-Laboratorio 21
+# Prueba
+Primer repositorio en GitHub
